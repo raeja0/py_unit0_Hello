@@ -1,1 +1,1 @@
-print("Hello, World!")
+print(8+32*5)
