@@ -1,6 +1,6 @@
 import turtle
+for i in range(4):
+    turtle.forward(100)
+    turtle.left(90)
 
-turtle.forward(200)
-turtle.delay(100)
-turtle.forward(1000)
 turtle.exitonclick()
